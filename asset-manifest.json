@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/lenscape/static/css/main.d459429f.css",
+    "main.js": "/lenscape/static/js/main.6f031599.js",
+    "static/js/787.53c47e77.chunk.js": "/lenscape/static/js/787.53c47e77.chunk.js",
+    "static/media/bg.jpg": "/lenscape/static/media/bg.d191305109167b934dbf.jpg",
+    "static/media/pic1.jpg": "/lenscape/static/media/pic1.1c9c978253d6d87436ca.jpg",
+    "static/media/pic4.jpg": "/lenscape/static/media/pic4.38dceab22eb0346d3fad.jpg",
+    "static/media/pic6.jpg": "/lenscape/static/media/pic6.018880ddc60030f7a398.jpg",
+    "static/media/pic5.jpg": "/lenscape/static/media/pic5.5ca2336e65f96193691a.jpg",
+    "static/media/pic2.jpg": "/lenscape/static/media/pic2.5a605ccf4d467cd543f0.jpg",
+    "static/media/pic3.jpg": "/lenscape/static/media/pic3.c8eb265583195229336b.jpg",
+    "static/media/profile.jpg": "/lenscape/static/media/profile.92c4c830f8b58f47769d.jpg",
+    "index.html": "/lenscape/index.html",
+    "main.d459429f.css.map": "/lenscape/static/css/main.d459429f.css.map",
+    "main.6f031599.js.map": "/lenscape/static/js/main.6f031599.js.map",
+    "787.53c47e77.chunk.js.map": "/lenscape/static/js/787.53c47e77.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d459429f.css",
+    "static/js/main.6f031599.js"
+  ]
+}
