@@ -1,6 +1,6 @@
 ## Lenscape
 
-
+![Lenscape Screenshot](./screenshot.png)
 
 Lenscape is a simple React-based website showcasing landscapes from my trips. It's a platform for photographers and nature enthusiasts to share their love for the great outdoors through the art of photography.
 
