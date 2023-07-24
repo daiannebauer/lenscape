@@ -6,7 +6,7 @@ Lenscape is a simple React-based website showcasing landscapes from my trips.
 
 ## Demo
 
-
+https://daiannebauer.github.io/lenscape/
 
 ## Installation
 
